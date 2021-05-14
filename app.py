@@ -52,5 +52,5 @@ if uploaded_file is not None:
 	x = x.split("-")
 
 	
-	st.write("The Dog is - " , x[1])
+	st.write("The Dog is - " , x[1:])
         
